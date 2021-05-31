@@ -1,1 +1,5 @@
-d
+The file, main_alpha.m, can be used to generate Fig. 1 in the paper (to generate the two curves for overloading cases, the lines for the QR method need to be commented.)
+
+The file, main_M.m, can be used to generate Fig.2 in the paper.
+
+The file, main_alpha_OFDM.m, can be used to generate Fig. 3 in the paper.
