@@ -1,5 +1,5 @@
 # BAC-NOMA-OFDM-SDMA
-Design of BAC-NOMA when OFDM or SDMA is used in legacy systems
+Z. Ding and H. V. Poor, Advantages of NOMA for Multi-User BackCom Networks, IEEE Communications Letters, submitted.
 
 The aim of this paper is to show the necessarity of using NOMA in BackCom systems, when OFDM or SDMA is used in legacy systems. 
 
